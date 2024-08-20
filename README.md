@@ -1,5 +1,11 @@
 ## My Asp Net Core Development Road map. 
 
+### Rules : 
+each item in this list must have three checks as ⭐
+- first one is when I study about them.
+- second one is when I bring them into code.
+- third one is when some other person asks me questions about it and I can answer them (he verifies that my knowledge about that item is quite good).
+
 ### Basic Level
 
 1. General Skills for Software Development. 
