@@ -32,11 +32,10 @@ each item in this list must have three checks as ⭐
        - Single Responsibility
        - Interface Segregation 
        - Dependency Inversion (others will be learned in future)
-    6. ORM
+   6. ORM
        - Entity-Framework (paste tutorial link)
-     7. Dependency Injection 
+   7. Dependency Injection 
         - Microsoft Dependency Injection
-     8. Relational Database
-         - SQL Server
-     9.   
+   8. Relational Database
+         - SQL Server   
        
